@@ -1,0 +1,8 @@
+@tailwind base;
+:root {
+  background-color: lightcyan;
+}
+
+
+@tailwind components;
+@tailwind utilities;
